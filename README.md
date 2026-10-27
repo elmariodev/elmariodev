@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="elmariodev: Con AI puedes hacer lo que sea">
+<img src="assets/banner.jpg" width="100%" alt="elmariodev: Can AI build it? Let's find out">
 
 ### I make things with AI. Games, tools, whatever I can think of.
 
@@ -20,8 +20,7 @@ Some of it works. Some of it breaks on camera. You get to see both.
 ```console
 $ elmariodev --now
 building   small games, one prompt at a time
-testing    every new model the week it drops
-breaking   things on camera, then fixing them
+filming    the builds for YouTube, in Spanish
 commits    2,100+ last year, most with an agent next to me
 ```
 
@@ -38,6 +37,6 @@ commits    2,100+ last year, most with an agent next to me
 [YouTube](https://www.youtube.com/@elmariodev) · [TikTok](https://www.tiktok.com/@elmariodev) · [Instagram](https://www.instagram.com/elmariodev) · [X](https://x.com/elmariodev) · [LinkedIn](https://www.linkedin.com/in/elmariodev)
 
 <img src="assets/logo-small.svg" width="40" alt=""><br>
-**Con AI puedes hacer lo que sea.**
+**Can AI build it? Let's find out**
 
 </div>
